@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="99px" height="62px" viewBox="0 0 99 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="177px" height="62px" viewBox="0 0 177 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Group 4</title>
-    <g id="購物商城首頁、廠商－我的賣場首頁、商品頁" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1-01-首頁商品分類仿造天貓，但子分類是以蝦皮為核心（未登入）" transform="translate(-1337.000000, -1973.000000)">
-            <g id="Group-3-Copy" transform="translate(234.000000, 1974.000000)">
-                <g id="Group-4" transform="translate(1104.000000, 0.000000)">
-                    <rect id="Rectangle" stroke="#FFFFFF" fill="#959595" x="0" y="0" width="97" height="60"></rect>
-                    <text id="回饋說明" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#FFFFFF">
-                        <tspan x="27.5" y="35">看更多</tspan>
-                    </text>
+    <g id="個人帳戶５－１－１我的檔案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-1-1-1-我的檔案首頁" transform="translate(-1260.000000, -1577.000000)">
+            <g id="footer" transform="translate(0.000000, 1444.000000)">
+                <g transform="translate(235.000000, 86.000000)" id="Group-14">
+                    <g transform="translate(856.000000, 0.000000)">
+                        <g id="Group-4" transform="translate(170.000000, 48.000000)">
+                            <rect id="Rectangle" stroke="#FFFFFF" fill="#959595" x="0" y="0" width="175" height="60"></rect>
+                            <text id="回饋說明" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="30.506" y="35">iPhone App Store</tspan>
+                            </text>
+                        </g>
+                    </g>
                 </g>
             </g>
         </g>
