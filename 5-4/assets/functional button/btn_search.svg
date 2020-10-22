@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>functional button/btn_search</title>
+    <g id="functional-button/btn_search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.4,0 C6.82,0 0,6.82 0,15.4 C0,23.98 6.82,30.8 15.4,30.8 C19.1893416,30.8 22.633138,29.4496312 25.3,27.225 L26.4,28.325 L26.4,30.1125 L40.2875,44 L44,40.2875 L30.1125,26.4 L28.1875,26.4 L27.15625,25.36875 C29.418697,22.6916536 30.8,19.2249332 30.8,15.4 C30.8,6.82 23.98,0 15.4,0 Z M15.4,4.4 C21.56,4.4 26.4,9.24 26.4,15.4 C26.4,21.56 21.56,26.4 15.4,26.4 C9.24,26.4 4.4,21.56 4.4,15.4 C4.4,9.24 9.24,4.4 15.4,4.4 Z" id="btn_search" fill="#FFFFFF"></path>
+    </g>
+</svg>
