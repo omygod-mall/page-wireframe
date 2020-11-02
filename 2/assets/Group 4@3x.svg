@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="177px" height="62px" viewBox="0 0 177 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Group 4</title>
-    <g id="---------" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="2-1-商家的賣場" transform="translate(-1259.000000, -6569.000000)">
-            <g transform="translate(-7.000000, 0.000000)" id="footer">
-                <g transform="translate(7.000000, 6442.000000)">
+    <g id="2-廠商－我的賣場首頁" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-1-1-賣場首頁" transform="translate(-1259.000000, -6569.000000)">
+            <g id="2-1-商家的賣場" transform="translate(-7.000000, 0.000000)">
+                <g id="footer" transform="translate(7.000000, 6442.000000)">
                     <g transform="translate(234.000000, 80.000000)" id="Group-14">
                         <g transform="translate(856.000000, 0.000000)">
                             <g id="Group-4" transform="translate(170.000000, 48.000000)">
