@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="126px" height="47px" viewBox="0 0 126 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="200px" height="47px" viewBox="0 0 200 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Rectangle Copy 4</title>
-    <g id="個人帳戶5-1-2銀行帳戶" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="5-1-2-1-個人帳戶－銀行帳戶：尚未有銀行帳號（Empty-Space-陳淑芬）" transform="translate(-246.000000, -505.000000)" fill="#646464">
-            <g id="img_浮動按鈕-copy-10" transform="translate(246.000000, 505.000000)">
-                <rect id="Rectangle-Copy-4" x="0" y="0" width="126" height="47"></rect>
+    <g id="DB-個人帳戶5-1-2銀行帳戶" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-1-2-1-個人帳戶－銀行帳戶：尚未有銀行帳號（Empty-Space-陳淑芬）" transform="translate(-1187.000000, -252.000000)" fill="#646464">
+            <g id="img_浮動按鈕-copy-12" transform="translate(1187.000000, 252.000000)">
+                <rect id="Rectangle-Copy-4" x="0" y="0" width="200" height="47"></rect>
             </g>
         </g>
     </g>
